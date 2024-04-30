@@ -24,20 +24,28 @@ font-size: 20px;
 }
 
 #profile {
-  height: 300px;
-  width: 250px;
+  height: 400px;
+  width: 400px;
 }
 .mentor {
-  padding-left: 100px;
+  padding-left: 500px;
   display: flex;
  gap: 200px;
+ /* padding-bottom: 50px; */
 }
 a{
     text-decoration: none;
     color: black;
 }
-#statement{
+.statement{
   padding-top: 30px;
-  padding-bottom: 50px;
+  font-size: 35px;
 }
-
+#logo{
+  width: 100px;
+  height: 100px;
+}
+#head{
+  font-size: 50px;
+  padding-left: 800px;
+}

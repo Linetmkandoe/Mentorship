@@ -22,10 +22,11 @@
 #heading{
     font-size: 50px;
     justify-content: space-around;
-    padding-top: 70px;
+   
 }
 #growth{
     width: 1000px;
+    padding-bottom: 10px;
 }
 .main{
     padding-left: 30px;
@@ -48,12 +49,18 @@ a{
     border-radius: 20px;
     background-color: palevioletred;
     margin-left: 110px;
-    margin-bottom: 700px;
+    
     
 
 }
 #text{
     font-size: 30px;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    
+
 }
 
 @media screen and(min-witdh:280) and (max-width:480){
