@@ -28,7 +28,7 @@ a{
     height: 100px;
 }
 
-@media screen and (min-width:200px){
+@media screen and (min-width:200px)and(max-width:400px){
     #program{
         font-size: 20px;
        padding-left: 1px;
@@ -48,6 +48,11 @@ a{
         padding-top: 30px;
         
     }
+    #logo{
+        width: 100px;
+        height: 100px;
+    }
+
 }
   
        
